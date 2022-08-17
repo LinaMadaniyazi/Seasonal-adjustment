@@ -1,4 +1,4 @@
-# Seasonal adjustment
+# Seasonal adjustment in time-series studies of temperature effect
 This repository stores the updated R code to reproduce the analyisis presented in the article:  
 
 Madaniyazi, Lina, et al. "Should we adjust for season in time-series studies of the short-term association between temperature and mortality?." Submitting. DOI: 
